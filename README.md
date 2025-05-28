@@ -4,6 +4,7 @@
 1. فایل **CpuScheduling.c** را با یک کامپایلر C (مثل gcc) کامپایل کنید:
 ```bash
 gcc CpuScheduling.c -o CpuScheduling
+```
 
 2. برنامه را اجرا کنید:
 ```bash ./CpuScheduling```
