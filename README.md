@@ -11,10 +11,6 @@ gcc CpuScheduling.c -o CpuScheduling
 ./CpuScheduling
 ```
 
-3. ورودی‌ها را وارد کنید:
-- تعداد فرآیندها
-- زمان ورود و زمان اجرا برای هر فرآیند
-- کوانتوم زمانی برای Round Robin
 ## ورودی ها
 - **تعداد فرآیندها**: یک عدد صحیح
 - **زمان ورود و اجرا**: برای هر فرآیند، دو عدد صحیح
@@ -36,7 +32,8 @@ Enter time quantum for Round Robin: 4
 - **Burst Time**: زمان اجرا
 - **Waiting Time**: زمان انتظار
 - **Turnaround Time**: زمان برگشت
-- **Response Time**: زمان پاسخ 
+- **Response Time**: زمان پاسخ
+
 نمونه خروجی:
 ```bash
 === FCFS ===
