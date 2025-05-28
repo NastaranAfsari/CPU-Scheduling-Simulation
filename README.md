@@ -7,7 +7,10 @@ gcc CpuScheduling.c -o CpuScheduling
 ```
 
 2. برنامه را اجرا کنید:
-```bash ./CpuScheduling```
+```bash
+./CpuScheduling
+```
+
 3.ورودی‌ها را وارد کنید:
 *تعداد پروسس‌ها
 *زمان ورود و زمان اجرا برای هر پروسس
